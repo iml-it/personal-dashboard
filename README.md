@@ -23,6 +23,10 @@ $ npm install
 
 ## Ressourcen
 
+# Material
+
+* [web components](https://material.io/develop/web/)
+
 # MDN web docs
 
 * [HTML](https://developer.mozilla.org/de/docs/Web/HTML)
