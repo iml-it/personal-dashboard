@@ -29,3 +29,7 @@ $ npm install
 * [CSS](https://developer.mozilla.org/de/docs/Web/CSS)
 * [JavaScript](https://developer.mozilla.org/de/docs/Web/JavaScript)
 * [Web API Referenz](https://developer.mozilla.org/de/docs/Web/API)
+
+# Public API's
+
+* [toddmotto](https://github.com/toddmotto/public-apis#machine-learning)
