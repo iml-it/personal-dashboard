@@ -22,3 +22,10 @@ $ npm install
 ```
 
 ## Ressourcen
+
+# MDN web docs
+
+* [HTML](https://developer.mozilla.org/de/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/de/docs/Web/CSS)
+* [JavaScript](https://developer.mozilla.org/de/docs/Web/JavaScript)
+* [Web API Referenz](https://developer.mozilla.org/de/docs/Web/API)
