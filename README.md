@@ -23,17 +23,17 @@ $ npm install
 
 ## Ressourcen
 
-# Material
+### Material
 
 * [web components](https://material.io/develop/web/)
 
-# MDN web docs
+### MDN web docs
 
 * [HTML](https://developer.mozilla.org/de/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/de/docs/Web/CSS)
 * [JavaScript](https://developer.mozilla.org/de/docs/Web/JavaScript)
 * [Web API Referenz](https://developer.mozilla.org/de/docs/Web/API)
 
-# Public API's
+### Public API's
 
 * [toddmotto](https://github.com/toddmotto/public-apis#machine-learning)
