@@ -1,5 +1,5 @@
 # Aufgabe «Personal Dashboard»
-Konzipiere und programmiere eine Web-Applikation (Desktop/Smartphone) für dich oder dein Team.
+Konzipiere und programmiere ein Dashboard in Form einer Web-Applikation für dich oder dein Team. Welche Daten auf dem Dashboard angezeigt werden sollen, bleibt dir überlassen.
 
 ## Ziel
 * Informationsarchitektur
@@ -9,7 +9,7 @@ Konzipiere und programmiere eine Web-Applikation (Desktop/Smartphone) für dich 
 
 ## Vorgehen
 * Konzeption (90 min): Diskussion Aufgabe, Konzipieren und Skizzieren
-* Entwicklung (120 min): API Anbindung, User-Interface, Responsive-Layout
+* Entwicklung (180 min): API Anbindung, User-Interface, Responsive-Layout
 * Präsentation (5min): Präsentation der Applikation, Diskussion/Feedback
 
 ## Entwicklungsumgebung Einrichten
