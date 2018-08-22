@@ -33,7 +33,7 @@ $ npm install
 * [CSS](https://developer.mozilla.org/de/docs/Web/CSS)
 * [JavaScript](https://developer.mozilla.org/de/docs/Web/JavaScript)
 * [Web API Referenz](https://developer.mozilla.org/de/docs/Web/API)
-
+* [JavaScript Fetch Example](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 ### Public API's
 
 * [toddmotto](https://github.com/toddmotto/public-apis#machine-learning)
